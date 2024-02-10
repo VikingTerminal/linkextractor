@@ -1,3 +1,3 @@
-import requests
-from colorama import Fore, Style
-import time
+pip install requests
+
+pip install colorama
